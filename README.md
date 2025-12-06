@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm vm</h1>
-<h3 align="center">I just do this for fun</h3>
+<h1 align="center">/home/vmmie/</h1>
+<h3 align="center">well hello there!👋</h3>
 
 <p align="left">
 </p>
