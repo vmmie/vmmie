@@ -15,6 +15,6 @@
 
 <h1 align="center">Discord:</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/436164773885902860?theme=dark&animatedDecoration=true&showDisplayName=true)](https://discord.com/users/436164773885902860)
+[![Discord Presence](https://lanyard.cnrad.dev/api/436164773885902860?theme=dark&animatedDecoration=true&showDisplayName=true&hideActivity=true)](https://discord.com/users/436164773885902860)
 
 ![Footer](./footer.png)
