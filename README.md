@@ -1,4 +1,4 @@
-![Header](./header.png)
+
 
 <div id="header" align="center">
 
@@ -17,4 +17,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/436164773885902860?theme=dark&animatedDecoration=true&showDisplayName=true&hideActivity=true)](https://discord.com/users/436164773885902860)
 
-![Footer](./footer.png)
+
