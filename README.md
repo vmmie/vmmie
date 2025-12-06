@@ -1,4 +1,4 @@
-<h1 align="center">/home/vmmie/</h1>
+<h1 align="center">/home/vm (@vmmie)</h1>
 <h3 align="center">well hello there!👋</h3>
 
 <p align="left">
